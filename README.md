@@ -60,7 +60,6 @@ climate_change_modeling/
 ├── docs/
 │   ├── usage.md                     # Module usage guide
 │   └── project_summary.md           # Project overview
-├── tests/                           # Unit tests (currently empty)
 ├── run_analysis.py                  # Script to run complete analysis
 ├── requirements.txt                 # Python dependencies
 ├── setup.py                         # Package setup file
